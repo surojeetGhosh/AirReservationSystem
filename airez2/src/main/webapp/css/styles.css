@@ -1,0 +1,54 @@
+body{
+  margin: 0; /* as we all 4 side 0*/
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Montserrat', serif;
+  background-image: url(airline.jpg);
+}
+.instruc{
+	color: #6D8B74;
+	font-size: 10px;
+}
+.error{
+	color: #F32424;
+	font-size: 12px;
+	display: block;
+}
+.ok{
+	color: #14C38E;
+	font-size: 12px;
+	display: block;
+}
+h1{
+	font-family: 'Ubuntu', serif;
+	padding: 30px;
+}
+ul{
+  list-style: none;
+}
+.interface{
+border-radius: 10%;
+  display: inline-block;
+  background-color: rgb(255,255,255);
+}
+.form{
+  border-style: dotted;
+  border-top: none;
+  border-bottom: none;
+  border-right: none;
+  border-width: 10px;
+  padding: 30px;
+}
+table{
+  margin: auto;
+  
+}
+
+td{
+	padding: 10px;
+}
+
+
+.btn{
+	margin-top : 40px;
+}
